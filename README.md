@@ -55,7 +55,7 @@
 
             ```
             效果
-            ![2](https://github.com/SO4P/Unity8/blob/master/2.PNG);
+            ![2](https://github.com/SO4P/Unity8/blob/master/2.PNG)
         + UGUI
 
             使用canvas中的slider
@@ -109,7 +109,7 @@
         挂载后会发现血条方向不对，故要将slider先旋转180°，而且我们将canvas的父对象设置为游戏角色，这样可以让血条始终显示在它上面。
 
         效果：
-        ![1](https://github.com/SO4P/Unity8/blob/master/1.PNG);
+        ![1](https://github.com/SO4P/Unity8/blob/master/1.PNG)
     + 两种实现的优缺点
         + IMGUI
 
@@ -125,3 +125,5 @@
     + 预制的使用方法
 
         IMGUI需将脚本挂载在摄像头上,而UGUI则只需把预制体cube拖到场景中就能使用。
+
+    + [演示视频](https://github.com/SO4P/Unity8/blob/master/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.zip)
